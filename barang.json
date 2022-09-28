@@ -1,0 +1,29 @@
+[
+	{
+		"kodebarang" : "AB1",
+		"nama" : "Gelas",
+		"harga" : 25000,
+		"jumlah_stok" : 1000,
+		"gambar" : "gelas.jpg",
+		"Merek" : "Anti Pecah",
+		"cashback" : 20
+	},
+	{
+		"kodebarang" : "AB2",
+		"nama" : "Piring",
+		"harga" : 18000,
+		"jumlah_stok" : 1500,
+		"gambar" : "piring.jpg",
+		"Merek" : "Cap Ayam",
+		"cashback" : 50
+	},
+	{
+		"kodebarang" : "AB3",
+		"nama" : "Jam",
+		"harga" : 50000000,
+		"jumlah_stok" : 200,
+		"gambar" : "jam.jpg",
+		"Merek" : "Rolex",
+		"cashback" : 500
+	}
+]

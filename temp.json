@@ -1,0 +1,23 @@
+[
+    {
+        "noorder": "ORD-0001",
+        "date": "2021-05-05",
+        "pelanggan": "Kelly",
+        "user": "Beverly Vladislav Tan",
+        "produk": [
+            {
+                "nomor": "1",
+                "kodebarang": "AB3",
+                "namaproduk": "Jam",
+                "jlh": "1",
+                "harga": "50000000",
+                "total": "50000000",
+                "Merek": "Rolex",
+                "cashback": "500"
+            }
+        ],
+        "subtotal": 50000000,
+        "jumlahitem": 1,
+        "totalcashback": 0
+    }
+]
